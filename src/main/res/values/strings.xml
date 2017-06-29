@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Reddit XM</string>
+
+    <string name="search_no_results">No results found</string>
+    <string name="search_icon">Search</string>
+    <string name="search_query_hint">Search ...</string>
+    <string name="error_unknown">An Error has occurred</string>
+    <string name="click_to_load_more">CLICK HERE TO LOAD MORE</string>
+    <string name="click_to_load_more_error">"ERROR HAS OCCURRED.\nCLICK TO RETRY."</string>
+    <string name="title_activity_main_activiy">Reddit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_delete">Delete selected items</string>
+    <string name="title_activity_product_detail">Detail Activity</string>
+    <string name="reddit">Reddit</string>
+    <plurals name="items">
+        <item quantity="one">%1$d Item</item>
+        <item quantity="other">%1$d Items</item>
+    </plurals>
+    <string name="comments" formatted="false">%d &#x1F4AC;</string>
+    <string name="author" formatted="false">by %s</string>
+</resources>

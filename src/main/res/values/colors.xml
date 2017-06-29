@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ad1457</color>
+    <color name="colorPrimaryDark">#78002e</color>
+    <color name="accent">#616161</color>
+    <color name="accent_dark">#373737</color>
+    <color name="colorAccent">@color/accent</color>
+    <color name="white">#ffffff</color>
+    <color name="window_background">#E0E0E0</color>
+    <color name="search_toolbar_background">#B0BEC5</color>
+    <color name="search_statusbar_background">#90A4AE</color>
+
+    <color name="loadMoreItems">#9E9E9E</color>
+    <color name="mainMenuItemSelected">#CFD8DC</color>
+
+    <color name="delete_background">#E53935</color>
+    <color name="blackish">#222222</color>
+</resources>

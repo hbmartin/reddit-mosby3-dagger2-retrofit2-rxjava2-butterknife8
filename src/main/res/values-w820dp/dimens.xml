@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="text_large">24sp</dimen>
+    <dimen name="text_small">16sp</dimen>
+
+    <dimen name="padding_text_large">16dp</dimen>
+    <dimen name="padding_text_small">8dp</dimen>
+</resources>
